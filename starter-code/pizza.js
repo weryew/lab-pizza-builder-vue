@@ -1,7 +1,6 @@
 const vm = new Vue({
   el: "#app",
   data: {
-    isActive: true,
     basePrice: 10,
     ingredients: [
       {
